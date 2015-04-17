@@ -25,7 +25,7 @@ header-img: "img/post-bg-00.jpg"
 
 <img src="{{ site.baseurl }}/img/included-img-00.jpg" alt="Clean Blog preview">
 
-<p>After looking for any good template to start the blog, I found <a href="http://startbootstrap.com/template-overviews/clean-blog/">Clean Blog</a>, an amazing template by <a href="http://startbootstrap.com/">Start Bootstrap</a>.</p>
+<p>After looking for any good template to start the blog, I found <i><a href="http://startbootstrap.com/template-overviews/clean-blog/">Clean Blog</a></i>, an amazing template by <i><a href="http://startbootstrap.com/">Start Bootstrap</a></i>.</p>
 
 <p>I've modified it to add support for <i>Disqus</i> following <a href="https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions">this tutorial</a>. Thanks to this, I have comments at the bottom of every post.</p>
 
@@ -36,8 +36,8 @@ header-img: "img/post-bg-00.jpg"
 <p>To finish the post, I want to share some useful links:</p>
 
 <ul>
-	<li><a href="https://github.com/jekyll/jekyll/wiki/Sites">Examples</a>: Some examples of websites using Jekyll.</li>
-	<li><a href="http://jekyllrb.com/">Jekyll</a>: Main Jekyll website with install guides and configuration tutorials.</li>
-	<li><a href="http://jekyll-windows.juthilo.com/">Jekyll for Windows</a>: A website explaining how to install Jekyll on Windows.</li>
-	<li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a>: Useful cheatsheet to write posts.</li>
+	<li><b><a href="https://github.com/jekyll/jekyll/wiki/Sites">Examples</a></b>: Some examples of websites using <i>Jekyll</i>.</li>
+	<li><b><a href="http://jekyllrb.com/">Jekyll</a></b>: Main <i>Jekyll</i> website with install guides and configuration tutorials.</li>
+	<li><b><a href="http://jekyll-windows.juthilo.com/">Jekyll for Windows</a></b>: A website explaining how to install <i>Jekyll</i> on <i>Windows</i>.</li>
+	<li><b><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a></b>: Useful cheatsheet to write posts.</li>
 </ul>
